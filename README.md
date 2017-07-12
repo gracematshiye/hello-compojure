@@ -1,6 +1,9 @@
 # hello-compojure
 
-FIXME
+ Compojure is a web application framework that works on top of Ring. Compojure does a lot of jobs necessary to create a web application. Using Compojure, we can focus more on creating web pages.
+
+ ## How to start the Clojure program
+ The first thing we do is create a Clojure project. BUT it’s not [lein new][] here. We will type in [lein new compojure][] instead.
 
 ## Prerequisites
 
